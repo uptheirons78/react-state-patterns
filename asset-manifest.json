@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-state-patterns/static/css/main.addb1808.chunk.css",
+    "main.js": "/react-state-patterns/static/js/main.36f6d9e8.chunk.js",
+    "main.js.map": "/react-state-patterns/static/js/main.36f6d9e8.chunk.js.map",
+    "runtime~main.js": "/react-state-patterns/static/js/runtime~main.ca3892fc.js",
+    "runtime~main.js.map": "/react-state-patterns/static/js/runtime~main.ca3892fc.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-state-patterns/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-state-patterns/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-state-patterns/index.html",
+    "precache-manifest.2b0298c8f4d2c95cf795dd1e9da079c6.js": "/react-state-patterns/precache-manifest.2b0298c8f4d2c95cf795dd1e9da079c6.js",
+    "service-worker.js": "/react-state-patterns/service-worker.js",
+    "static/css/main.addb1808.chunk.css.map": "/react-state-patterns/static/css/main.addb1808.chunk.css.map"
+  }
+}
